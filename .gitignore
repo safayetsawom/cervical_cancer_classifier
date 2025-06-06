@@ -1,0 +1,1 @@
+pycache/ *.pyc venv/ uploads/ *.pth .env
